@@ -6,8 +6,8 @@
   <p>
     Spotify Genius는 Spotify API와 Web Playback SDK를 사용하여 사용자에게 음악을 검색하고 재생할 수 있는 기능을 제공하는 웹 애플리케이션입니다. 이 앱은 또한 가사를 검색하고 번역할 수 있는 기능을 제공합니다.
   </p>
-  <h1>파일 세분화</h1>
-  <h2><a href="https://github.com/Hyun198/spotify_final">SpotifyGenius fullstack Update version</a></h2>
+
+  <h2><a href="https://github.com/Hyun198/spotify_final">SpotifyGenius fullstack Update version (more specific, only update in this version)</a></h2>
 <!-- Badges -->
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
